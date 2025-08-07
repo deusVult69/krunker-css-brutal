@@ -1,0 +1,113 @@
+/* 
+---------------------
+| Krunker Brutal css
+| Author: -deusVult
+|
+| IGN: -deusVult
+| Github: https://github.com/deusVult69
+| Discord: hardypr0
+---------------------
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+:root {
+	/* typography */
+	--font: 'Press Start 2P', system-ui;
+	
+	/* colors */
+	--color-primary: yellow;
+	--color-text-primary: #d1d1d1;
+
+	/* bg */
+	--color-bg-primary: #131313;
+	--color-bg-special: transparent;
+
+	/* other */
+	--border: 0;
+	--radius: 0;
+
+	/* customization */
+	--logo-caption: 'krunker.io';
+
+	/* customize */
+	/* to apply these, search these vars and uncomment block  */
+	--ign: 'deus';
+	--clan-tag: '[m3ow]';
+	--clan-tag-color: linear-gradient(
+		90deg,
+		#ff0000,
+		#ff7300,
+		#fffb00,
+		#48ff00,
+		#00ffd5,
+		#002bff,
+		#7a00ff,
+		#ff00c8,
+		#ff0000
+	);
+
+	/* css author */
+	--author: 'css by -deusVult';
+	/* visibility of author text, would be cool if u keep it on, but up to u */
+	/* 0 - off, 1 - on  */
+	--author-visibility: 0;
+}
+
+/* Uncommment all next blocks to use custom ign, clan tag, tag color */
+/* #menuAccountUsername,
+.endTableN[style="color:#fff"],
+.endTableN[style="color:#fff"] span,
+.newLeaderNameM,
+.newLeaderNameM span{
+	font-size: 0;
+	visibility: hidden;
+}
+#menuAccountUsername::before,
+.endTableN[style="color:#fff"]::before,
+.newLeaderNameM::before{
+	content: var(--ign);
+	visibility: visible;
+}
+#menuAccountUsername::before{
+	font-size: 1rem;
+}
+.endTableN[style="color:#fff"]::before,
+.endTableN[style="color:#fff"] span::before{
+	font-size: 1.25rem;
+}
+.newLeaderNameM::before,
+.newLeaderNameM span::after {
+	font-size: 0.9375rem;
+}
+
+.endTableN[style="color:#fff"] span::before,
+.newLeaderNameM span::after{
+	content: var(--clan-tag);
+	display: inline;
+
+	margin-left: 5px;
+	
+  color: transparent;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+
+	background: var(--clan-tag-color);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+	visibility: visible;
+
+  animation: rainbow 4s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 400% 50%;
+  }
+} */
+
+
+/* Add your edits below */
