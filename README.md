@@ -5,16 +5,16 @@ Custom css for krunker.io game.
 
 ## Interface Screenshots
 *Menu*
-![Menu](https://github.com/deusVult69/krunker-css-brutal/blob/main/screenshots/menu.png?raw=true "Menu")
+![Menu](https://deusvult69.github.io/krunker-css-brutal/screenshots/menu.png "Menu")
 
 *In game*
-![In game](https://github.com/deusVult69/krunker-css-brutal/blob/main/screenshots/game.png?raw=true "In game ui")
+![In game](https://deusvult69.github.io/krunker-css-brutal/screenshots/game.png "In game ui")
 
 *Settings popup*
-![Settings](https://github.com/deusVult69/krunker-css-brutal/blob/main/screenshots/settings.png?raw=true "Settings")
+![Settings](https://deusvult69.github.io/krunker-css-brutal/screenshots/settings.png "Settings")
 
 ## How to Use
-To always have the latest version: download or copy `main_custom.css`.
+To always have the latest version: download or copy `brutal-remote.css`.
 
 ---
 Found bugs or issues? Feel free to dm me on discord - `hardypr0`.  
